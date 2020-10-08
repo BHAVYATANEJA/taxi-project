@@ -1452,7 +1452,6 @@
 		height: 310px;
 		margin-left: 20px;
 		margin-top: 30px;
-		border: 2px solid blue;
 	}
 	.left1 h2{
 		line-height: 40px;
@@ -1475,7 +1474,6 @@
 	}
 	.cab{
 		margin-left: 50px;
-		border: 2px solid blue;
 
 	}
 	.cab p{
@@ -1609,7 +1607,6 @@
 	
 	.cab{
 		margin-left: 20px;
-		border: 2px solid blue;
 
 	}
 	.cab p{
@@ -1620,7 +1617,6 @@
 	}
 	.newcar{
 		width: 100%;
-		border: 2px solid blue;
 
 	}
 	.car1{
@@ -1640,13 +1636,9 @@
 	.services{
 		height:380px ;
 	}
-	.services h2{
-		border: 2px solid blue;
-
-	}
+	
 	.left2{
 		width: 380px;
-		border: 2px solid blue;
 
 	}
 	.extra h1{
@@ -1679,7 +1671,6 @@
 	.upper1{
 		margin-left: 0px;
 		text-align: center;
-		border: 2px solid blue;
 
 	}
 	.upper1 h2{
@@ -1693,24 +1684,20 @@
 		margin-left: 40px;
 		font-size: 9px;
 		width: 300px;
-		border: 2px solid blue;
 
 	}
 	.content3 h1{
 		margin-left: 20px;
 		font-size: 35px;
 		width: 330px;
-		border: 2px solid blue;
 
 	}
 	.circle{
 		margin-left: 50px;
-		border: 2px solid blue;
 
 	}
 	.content4{
 		margin-left: -260px;
-		border: 2px solid blue;
 
 	}
 	
@@ -1730,7 +1717,7 @@
 		margin-left: 20px;	
 	}
 	.content1{
-		height: 350px;
+		height: 380px;
 	}
 	.left1{
 		height: 310px;
@@ -1743,7 +1730,7 @@
 	}
 	.left1 h1{
 		line-height: 35px;
-		font-size: 30px;
+		font-size: 25px;
 	}
 	.left1 p{
 		line-height: 20px;
@@ -1760,7 +1747,6 @@
 	
 	.cab{
 		margin-left: 20px;
-		border: 2px solid blue;
 
 	}
 	.cab p{
@@ -1771,17 +1757,16 @@
 	}
 	.newcar{
 		width: 100%;
-		border: 2px solid blue;
 
 	}
 	.car1{
 		margin-left: 20px;
-		width: 340px;
+		width: 320px;
 		overflow: hidden;
 	}
 	.car2{
 		margin-left: 20px;
-		width: 340px;
+		width: 320px;
 		overflow: hidden;
 	}
 	.hello{
@@ -1791,13 +1776,8 @@
 	.services{
 		height:380px ;
 	}
-	.services h2{
-		border: 2px solid blue;
-
-	}
 	.left2{
 		width: 350px;
-		border: 2px solid blue;
 
 	}
 	.extra h1{
@@ -1806,8 +1786,9 @@
 	}
 	.text1{
 		margin-left: 20px;
-		font-size: 13px;
+		font-size: 15px;
 		text-align: left;
+		width: 300px;
 	}
 	.right2{
 		display: none;
@@ -1817,6 +1798,7 @@
 		padding: 2px;
 		word-spacing: 2px;
 		letter-spacing: 2px;
+		margin-top: 20px;
 	}
 	
 	.image1{
@@ -1845,24 +1827,20 @@
 		margin-left: 40px;
 		font-size: 9px;
 		width: 300px;
-		border: 2px solid blue;
 
 	}
 	.content3 h1{
 		margin-left: 20px;
 		font-size: 35px;
 		width: 330px;
-		border: 2px solid blue;
 
 	}
 	.circle{
 		margin-left: 50px;
-		border: 2px solid blue;
 
 	}
 	.content4{
 		margin-left: -260px;
-		border: 2px solid blue;
 
 	}
 	
