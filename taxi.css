@@ -14,6 +14,7 @@
   background-color: #1a535c;
   height: 57px;
   border-bottom: 3px solid #fee773;
+
 }
 .logo{
 		width: 200px;
@@ -1451,6 +1452,7 @@
 		height: 310px;
 		margin-left: 20px;
 		margin-top: 30px;
+		border: 2px solid blue;
 	}
 	.left1 h2{
 		line-height: 40px;
@@ -1469,12 +1471,12 @@
 		margin-top: 18px;
 	}
 	.right1{
-		
 		display: none;
 	}
-	
 	.cab{
 		margin-left: 50px;
+		border: 2px solid blue;
+
 	}
 	.cab p{
 		font-size: 25px;
@@ -1560,4 +1562,156 @@
 	.content4{
 		margin-left: -250px;
 	}
+
+}
+@media ( max-width: 461px)
+{
+	#iconbar{
+		visibility: visible;
+		opacity: 1;
+		font-size: 35px;
+		color: #fee773;
+		margin-top: 5px;
+		margin-right: 80px;
+	}
+	.logo{
+		width: 200px;
+		margin-left: 20px;	
+	}
+	.content1{
+		height: 350px;
+	}
+	.left1{
+		height: 310px;
+		margin-left: 20px;
+		margin-top: 30px;
+	}
+	.left1 h2{
+		line-height: 40px;
+		font-size: 38px;
+	}
+	.left1 h1{
+		line-height: 35px;
+		font-size: 30px;
+	}
+	.left1 p{
+		line-height: 20px;
+		font-size: 17px;
+		margin-top: 10px;
+	}
+	.read{
+		margin-top: 18px;
+	}
+	.right1{
+		
+		display: none;
+	}
+	
+	.cab{
+		margin-left: 20px;
+		border: 2px solid blue;
+
+	}
+	.cab p{
+		font-size: 25px;
+	}
+	.cab h1{
+		font-size: 30px;
+	}
+	.newcar{
+		width: 100%;
+		border: 2px solid blue;
+
+	}
+	.car1{
+		margin-left: 20px;
+		width: 340px;
+		overflow: hidden;
+	}
+	.car2{
+		margin-left: 20px;
+		width: 340px;
+		overflow: hidden;
+	}
+	.hello{
+		display: none;
+	}
+	
+	.services{
+		height:380px ;
+	}
+	.services h2{
+		border: 2px solid blue;
+
+	}
+	.left2{
+		width: 380px;
+		border: 2px solid blue;
+
+	}
+	.extra h1{
+		font-size: 20px;
+		margin-left: 20px;
+	}
+	.text1{
+		margin-left: 20px;
+		font-size: 15px;
+		text-align: left;
+	}
+	.right2{
+		display: none;
+	}
+	.bttn{
+		margin-left: 20px;
+		padding: 2px;
+		word-spacing: 2px;
+		letter-spacing: 2px;
+	}
+	
+	.image1{
+		width: 250px;
+		height: 300px;
+
+	}
+	.content2{
+		height: 300px;
+	}
+	.upper1{
+		margin-left: 0px;
+		text-align: center;
+		border: 2px solid blue;
+
+	}
+	.upper1 h2{
+		font-size: 25px;
+		text-align: center;
+	}
+	.upper1 h1{
+		font-size: 28px;
+	}
+	.content3 h4{
+		margin-left: 40px;
+		font-size: 9px;
+		width: 300px;
+		border: 2px solid blue;
+
+	}
+	.content3 h1{
+		margin-left: 20px;
+		font-size: 35px;
+		width: 330px;
+		border: 2px solid blue;
+
+	}
+	.circle{
+		margin-left: 50px;
+		border: 2px solid blue;
+
+	}
+	.content4{
+		margin-left: -260px;
+		border: 2px solid blue;
+
+	}
+	
 }
