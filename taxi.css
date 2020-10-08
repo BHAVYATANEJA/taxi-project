@@ -560,7 +560,7 @@
 	margin-left: 500px;
 }
 .right2{
-	margin-left: 850px;
+	margin-left: 820px;
 }
 .left1 h1{
     font-size: 24px;
@@ -587,7 +587,7 @@
 @media ( max-width: 1241px)
 {
 .right2{
-	margin-left: 800px;
+	margin-left: 770px;
 }
 .navbar{
 	margin-left: 250px;
@@ -712,6 +712,9 @@
 .hello1{
     margin-left: 120px;
 }
+.right2{
+	margin-left: 670px;
+}
 .hello2{
     margin-left: 120px;
 }
@@ -751,7 +754,7 @@
     margin-left: 100px;
 }
 .right2{
-	margin-left: 700px;
+	margin-left: 670px;
 }
 .upper1{
     margin-left: 430px;
@@ -789,7 +792,7 @@
     margin-left: 90px;
 }
 .right2{
-	margin-left: 680px;
+	margin-left: 650px;
 }
 .upper1{
     margin-left: 410px;
@@ -827,7 +830,7 @@
     margin-left: 70px;
 }
 .right2{
-	margin-left: 650px;
+	margin-left: 620px;
 }
 .upper1{
     margin-left: 390px;
@@ -871,7 +874,7 @@
     margin-left: 50px;
 }
 .right2{
-	margin-left: 620px;
+	margin-left: 590px;
 }
 .upper1{
     margin-left: 370px;
@@ -912,7 +915,7 @@
     margin-left: 40px;
 }
 .right2{
-	margin-left: 600px;
+	margin-left: 570px;
 }
 .upper1{
     margin-left: 350px;
@@ -1097,7 +1100,6 @@
 .image1{
 	height: 350px;
 	width: 280px;
-	border: 2px solid black;
 
 }
 .content2{
@@ -1232,7 +1234,6 @@
 		.image1{
 			width: 300px;
 			height: 350px;
-			border: 2px solid black;
 
 		}
 		.content2{
@@ -1390,7 +1391,6 @@
 	.image1{
 		width: 250px;
 		height: 300px;
-		border: 2px solid black;
 
 	}
 	.content2{
@@ -1527,7 +1527,6 @@
 	.image1{
 		width: 250px;
 		height: 300px;
-		border: 2px solid black;
 
 	}
 	.content2{
